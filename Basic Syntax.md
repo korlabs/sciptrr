@@ -68,3 +68,5 @@ Ditching the semicolon is nice, however, how does it know when to shift ideas?
 
 
 ***THIS IS NOT YET COMPLETE. IF YOU HAVE ANY IDEAS, SUBMIT A COMMIT REQUEST!***
+
+> Thoughts...is this a visual language or intended to be an application language?
